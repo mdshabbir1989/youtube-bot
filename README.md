@@ -46,8 +46,21 @@ Perfect for agencies, content creators, and marketers managing campaigns at scal
 ---
 
 <p align="center">
-  <img src="youtube-bot.png" alt="youtube-bot hero" width="100%">
+  <img src="youtube-bot.png" alt="youtube-bot hero" width="80%">
 </p>
+
+
+<p align="center">
+  <a href="https://www.loom.com/share/b7734cf1455f4c018e469ee18a821c72" target="_blank" rel="noopener noreferrer">
+    <img src="youtube-bot-demo.gif" alt="youtube-bot demo" width="40%">
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.loom.com/share/b7734cf1455f4c018e469ee18a821c72" target="_blank" rel="noopener noreferrer">
+    Click here to see the demo video
+  </a>
+</p>
+
 
 ## Use Cases
 
